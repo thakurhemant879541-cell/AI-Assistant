@@ -16,3 +16,4 @@ An intelligent AI Assistant created by Hemant Singh.
 ## Author
 Hemant Singh# AI-Assistant
 AI Assistant built by Hemant Singh using modern AI technologies.
+frontend/index.html
